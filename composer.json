@@ -1,0 +1,14 @@
+{
+    "name": "voltwise/frontend",
+    "description": "Voltwise energy dashboard (React/Vite frontend)",
+    "type": "project",
+    "license": "proprietary",
+    "require": {
+        "php": "^8.2"
+    },
+    "config": {
+        "allow-plugins": {}
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
